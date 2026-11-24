@@ -1,0 +1,5 @@
+*.keystore
+build/
+*.apk
+*.bak
+.DS_Store
